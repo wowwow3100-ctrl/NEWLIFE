@@ -1,8 +1,8 @@
-streamlit
-yfinance
-pandas
-twstock
-plotly
+streamlit>=1.32.0
+yfinance>=0.2.38
+pandas>=2.0.0
+twstock>=1.3.3
+plotly>=5.18.0
+openpyxl>=3.1.0
 requests
 lxml
-matplotlib
